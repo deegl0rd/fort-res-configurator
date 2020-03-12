@@ -1,0 +1,10 @@
+c:\users\petyapc\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite_Res_Configurator.Properties.Resources.resources
+c:\users\petyapc\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite_Res_Configurator.csproj.GenerateResource.Cache
+c:\users\petyapc\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite_Res_Configurator.csprojResolveAssemblyReference.cache
+c:\users\petyapc\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite_Res_Configurator.FortResConfigWindow.resources
+C:\Users\PetyaPC\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite_Res_Configurator.ScreenModeSwitcher.resources
+C:\Users\PetyaPC\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\bin\Debug\Fortnite Resolution Configurator.exe.config
+C:\Users\PetyaPC\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\bin\Debug\Fortnite Resolution Configurator.exe
+C:\Users\PetyaPC\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\bin\Debug\Fortnite Resolution Configurator.pdb
+C:\Users\PetyaPC\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite Resolution Configurator.exe
+C:\Users\PetyaPC\documents\visual studio 2015\Projects\Fortnite_Res_Configurator\Fortnite_Res_Configurator\obj\Debug\Fortnite Resolution Configurator.pdb

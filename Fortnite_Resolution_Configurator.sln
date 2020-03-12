@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortnite_Resolution_Configurator", "Fortnite_Res_Configurator\Fortnite_Resolution_Configurator.csproj", "{898A0F35-5F2D-4A2C-8A3A-E19C1354B5BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortnite_Resolution_Configurator", "Fortnite_Resolution_Configurator.csproj", "{898A0F35-5F2D-4A2C-8A3A-E19C1354B5BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934F6F63-5529-4AD9-84AA-5DF171EB737B}
 	EndGlobalSection
 EndGlobal
